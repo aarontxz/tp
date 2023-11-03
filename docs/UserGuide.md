@@ -253,8 +253,6 @@ AddressBook data are saved automatically as a JSON file `[JAR file location]/dat
 If your changes to the data file makes its format invalid, AddressBook will discard all data and start with an empty data file at the next run. Hence, it is recommended to take a backup of the file before editing it.
 </box>
 
-## In Progress
-
 ### Adding tags to a client object: `addTag`
 
 Adds any number of new tags to a client object without deleting the pre-exisiting tags.
@@ -344,6 +342,8 @@ Examples:
 Examples:
 
 - `removePolicy 1 1` will remove the first policy (right-most) that was added to the first person shown on the list.
+
+## In Progress
 
 ## FAQ
 
